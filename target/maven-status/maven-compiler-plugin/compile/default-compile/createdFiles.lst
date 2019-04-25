@@ -1,0 +1,12 @@
+com\company\estesiweb\clase\Materia.class
+com\company\estesiweb\service\OperacionServices.class
+com\company\estesiweb\clase\Mensaje.class
+com\company\estesiweb\service\UsuarioService.class
+com\mycompany\estesiweb\controller\MateriaController.class
+com\mycompany\estesiweb\controller\LogicaController.class
+com\company\estesiweb\clase\Usuario.class
+com\mycompany\estesiweb\controller\UsuarioController.class
+com\company\estesiweb\service\MateriaService.class
+com\company\estesiweb\clase\Suma.class
+com\company\estesiweb\service\Configuration.class
+com\mycompany\estesiweb\controller\UtilitariaController.class
